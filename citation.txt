@@ -1,8 +1,6 @@
 @inproceedings{REPO246,
     author = "Wang, Hang and Chen, Xuanhong and Ni, Bingbing and Liu, Yutian and Liu, Jinfan",
     booktitle = "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    doi = "10.1109/CVPR52729.2023.02143",
-    keywords = "Couplings;Computer vision;Correlation;Computational modeling;Superresolution;Computer architecture;Benchmark testing;Low-level vision",
     number = "",
     pages = "22378-22387",
     title = "{Omni Aggregation Networks for Lightweight Image Super-Resolution}",
